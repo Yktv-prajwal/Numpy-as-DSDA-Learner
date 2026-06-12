@@ -1,6 +1,5 @@
-=========================
-        NUMPY NOTES
-=========================
+========== NUMPY NOTES ===============
+        
 
 1. What is NumPy?
 NumPy (Numerical Python) is a Python library used for numerical and mathematical computations. It provides a powerful N-dimensional array (ndarray) that is faster and more memory-efficient than Python lists.
@@ -159,6 +158,5 @@ Ans:
 1D -> Single row of elements.
 2D -> Rows and columns (Matrix).
 
-=========================
-      END OF NOTES
-=========================
+=========== END OF NOTES ==============
+
