@@ -1,5 +1,4 @@
-========== NUMPY NOTES ===============
-        
+## LECTURE 1 NOTES 
 
 1. What is NumPy?
    
@@ -11,6 +10,7 @@ import numpy as np
 -----------------------------------
 
 2. NumPy Array
+   
 A NumPy array is a collection of elements of the same data type stored in contiguous memory locations.
 
 Syntax:
@@ -19,6 +19,7 @@ np.array(data)
 -----------------------------------
 
 3. 0-D Array (Scalar)
+
 • Contains only one element.
 • Has no dimensions.
 
@@ -31,6 +32,7 @@ shape = ()
 -----------------------------------
 
 4. 1-D Array
+   
 • Contains a single row of elements.
 • Similar to a Python list.
 
@@ -43,6 +45,8 @@ shape = (4,)
 -----------------------------------
 
 5. 2-D Array
+
+   
 • Contains rows and columns.
 • Similar to a matrix.
 
@@ -56,6 +60,7 @@ shape = (2,3)
 -----------------------------------
 
 6. 3-D Array
+
 • Collection of 2-D arrays.
 • Has depth, rows, and columns.
 
@@ -71,6 +76,7 @@ shape = (2,2,2)
 -----------------------------------
 
 7. 4-D Array
+   
 • Collection of 3-D arrays.
 • Used in advanced applications like AI and image processing.
 
@@ -140,24 +146,29 @@ NumPy Array:
 Important Interview Questions
 
 Q1. What is NumPy?
+
 Ans: NumPy is a Python library for numerical computing that provides support for multidimensional arrays and mathematical operations.
 
 Q2. What is ndarray?
+
 Ans: ndarray is the main data structure of NumPy used to store homogeneous data efficiently.
 
 Q3. What does ndim do?
+
 Ans: It returns the number of dimensions of an array.
 
 Q4. What does shape return?
+
 Ans: It returns the size of each dimension.
 
 Q5. What does size return?
+
 Ans: It returns the total number of elements in an array.
 
 Q6. Difference between 1D and 2D arrays?
+
 Ans:
 1D -> Single row of elements.
 2D -> Rows and columns (Matrix).
 
-=========== END OF NOTES ==============
 
