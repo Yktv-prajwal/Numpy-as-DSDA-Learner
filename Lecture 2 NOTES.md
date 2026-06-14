@@ -1,6 +1,6 @@
-========================
-NUMPY BASICS NOTES
-========================
+
+## NUMPY BASICS NOTES Lecture -> 2
+
 
 What is NumPy?
 --------------
