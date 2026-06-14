@@ -1,5 +1,5 @@
 
-## NUMPY BASICS NOTES Lecture -> 2
+## Lecture 2 NOTES
 
 
 What is NumPy?
