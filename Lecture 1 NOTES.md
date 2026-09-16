@@ -139,36 +139,6 @@ NumPy Array:
 • Less memory usage
 • Supports multidimensional arrays
 • Easy mathematical operations
-• Useful for Data Science, AI, ML, and Data Analysis
-
------------------------------------
-
-Important Interview Questions
-
-Q1. What is NumPy?
-
-Ans: NumPy is a Python library for numerical computing that provides support for multidimensional arrays and mathematical operations.
-
-Q2. What is ndarray?
-
-Ans: ndarray is the main data structure of NumPy used to store homogeneous data efficiently.
-
-Q3. What does ndim do?
-
-Ans: It returns the number of dimensions of an array.
-
-Q4. What does shape return?
-
-Ans: It returns the size of each dimension.
-
-Q5. What does size return?
-
-Ans: It returns the total number of elements in an array.
-
-Q6. Difference between 1D and 2D arrays?
-
-Ans:
-1D -> Single row of elements.
-2D -> Rows and columns (Matrix).
+• Useful for Data Science, AI, ML, and Data Analysis 
 
 
